@@ -13,3 +13,8 @@ Os microsserviços são:
   
  Resumidamente, o A cuida da página Web, e envia dados para B. O B, por sua vez, chama C (ou não, pois o usuário pode não querer usar cupom) e D.
  C e D retornam para B "valid" ou "invalid". B retorna para A a resposta final.
+
+Resolução do Desafio 2 (Microsserviços se comunicando utilizando filas)
+
+Os três microsserviços da Aula 2 foram utilizados neste desafio. Não copiei e colei, assisti o vídeo inteiro reproduzindo os mesmo passos no meu computador. Segue em anexo as imagens solicitadas na pasta
+"Segundo Desafio".

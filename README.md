@@ -23,3 +23,7 @@ Resolução do Desafio 3 (Microsserviços utilizando Docker)
 
 Todos os microsserviços do Desafio 2 foram adaptados com a tecnologia Docker. Por falta de tempo, eu não consegui saber porque o microsserviço B não se conecta ao RabbitMQ (connection refused).
 Mas acredito que valeu a aplicação do conhecimento, apesar deste pequeno problema. Todos os outros serviços estão funcionando corretamente.
+
+https://hub.docker.com/repository/docker/saulopinedo/microservice-a
+https://hub.docker.com/repository/docker/saulopinedo/microservice-b
+https://hub.docker.com/repository/docker/saulopinedo/microservice-c

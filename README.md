@@ -18,3 +18,8 @@ Resolução do Desafio 2 (Microsserviços se comunicando utilizando filas)
 
 Os três microsserviços da Aula 2 foram utilizados neste desafio. Não copiei e colei, assisti o vídeo inteiro reproduzindo os mesmo passos no meu computador. Segue em anexo as imagens solicitadas na pasta
 "Segundo Desafio".
+
+Resolução do Desafio 3 (Microsserviços utilizando Docker)
+
+Todos os microsserviços do Desafio 2 foram adaptados com a tecnologia Docker. Por falta de tempo, eu não consegui saber porque o microsserviço B não se conecta ao RabbitMQ (connection refused).
+Mas acredito que valeu a aplicação do conhecimento, apesar deste pequeno problema. Todos os outros serviços estão funcionando corretamente.
